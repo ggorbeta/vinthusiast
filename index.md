@@ -1,3 +1,9 @@
+---
+layout: default
+title: Vinthusiast Privacy Policy
+---
+
+
 # Privacy Policy for Vinthusiast
 
 *Last Updated: April 16, 2025*
