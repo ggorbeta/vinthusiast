@@ -5,7 +5,7 @@ title: Vinthusiast Privacy Policy
 
 # Privacy Policy for Vinthusiast
 
-*Last Updated: April 16, 2025*
+*Last Updated: April 19, 2025*
 
 ## 1. Information We Collect
 - Photos (when using photo sharing feature)
@@ -29,6 +29,16 @@ title: Vinthusiast Privacy Policy
 - Delete photos from the app
 - Opt out of photo sharing features
 
-## 5. Contact
+## 5. Affiliate Links and Third-Party Content
+- Our Wine Guide feature contains Amazon affiliate links
+- We may earn a commission from qualifying purchases made through these links
+- No personal data is collected through affiliate links
+- Clicking links opens Amazon.com in your default browser
+- All subsequent data collection is governed by Amazon's privacy policy
+- Using affiliate links is completely optional
+- Product recommendations are based on genuine value to wine enthusiasts
+- All affiliate links are clearly marked with disclosures within the app
+
+## 6. Contact
 For privacy-related inquiries, please contact us at:  
-Email: vinthusiast.app@gmail.com
+Email: vinthusiast.app@gmail.com 
